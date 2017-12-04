@@ -1,4 +1,5 @@
  <?php
+ //echo "sdfsdf"
 	// DEFAILT_PATH
 	//$path = '/home/host1379770/funny-pixels.ru/htdocs/music'; //dirname(__FILE__);
 	$path = dirname(__FILE__);
